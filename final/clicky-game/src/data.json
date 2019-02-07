@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/cambells.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/eggs.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/tomato.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/veggies.jpg",
+    "clicked": false
+  }
+]
